@@ -10,7 +10,7 @@ license = "Apache-2.0"
 
 [dependencies]
 array_tool = "1.0.3"
-dialoguer = "0.3.0"
+dialoguer = "0.10.3"
 failure = "0.1.5"
 flate2 = "~1"
 globset = "~0.4"
